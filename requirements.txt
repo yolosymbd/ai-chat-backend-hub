@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+slowapi
+python-multipart
+PyPDF2
+python-docx
+sentence-transformers
+numpy
+faiss-cpu
+mangum>=0.17.0
